@@ -58,8 +58,10 @@ header {
 }
 
 button {
-    color: green;
-    border-radius: 5%;
+    color: black;
+    background-color: green;
+    border-radius: 8%;
+
 }
 
 /* Nav Bars */
@@ -88,7 +90,7 @@ nav#utilityMenu {
     height: 3em;
     background-color: tan;
     border-radius: .5em;
-    padding: 0;
+    padding: 0 .5em;
 }
 
 /* Sidebar Section */
@@ -139,4 +141,5 @@ footer {
     text-align: center;
     padding: 1em 2em 1em 2em;
     background-color: tan;
+    font-size: xx-small;
 }
